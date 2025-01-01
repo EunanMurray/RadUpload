@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MockRepeatPractice.Models.Passengers>
+
+    <div class="card">
+        <div class="card-heard">
+                        <h4>Passengers</h4>
+        </div>
+        <div class="card-body">
+            <table class="table table-stripped">
+                <thead>
+                    <tr>
+                        <th>Passenger Name</th>
+                        <th>Ticket Type</th>
+                        <th>Cost of Ticket</th>
+                        <th>Baggage Charge</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var passenger in Model)
+                    {
+                        <tr>
+                            <td>@passenger.Name</td>
+                            <td>@passenger.TicketType</td>
+                        <td>€@passenger.cost</td>
+                        <td>€@passenger.baggageCharge</td>
+                        <td>
+                            <a asp-controller="Passengers" asp-action="Details" asp-route-id="@passenger.FlightID">View Passenger</a>
+                        </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>

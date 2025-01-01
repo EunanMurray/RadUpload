@@ -1,0 +1,30 @@
+﻿@model IEnumerable<_2022ClassLibrary.Models.Players>
+
+@{
+    ViewData["Title"] = "Team Players";
+}
+
+<h2>Team Players</h2>
+
+<div class="form-group mb-4">
+    @Html.DropDownList("TeamId", ViewBag.Teams as SelectList, "Select a Team", new { @class = "form-control", @onchange = "loadPlayers(this.value)" })
+</div>
+
+<div id="playersList">
+    @if (Model != null)
+    {
+        await Html.RenderPartialAsync("_PlayersList", Model);
+    }
+</div>
+
+@section Scripts {
+    <script>
+        function loadPlayers(teamId) {
+            if (teamId) {
+                $.get('@Url.Action("_PlayersList")', { teamId: teamId }, function(data) {
+                    $('#playersList').html(data);
+                });
+            }
+        }
+    </script>
+}

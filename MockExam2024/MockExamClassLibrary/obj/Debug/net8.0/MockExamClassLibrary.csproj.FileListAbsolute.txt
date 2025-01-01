@@ -1,0 +1,14 @@
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\bin\Debug\net8.0\MockExamClassLibrary.deps.json
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\bin\Debug\net8.0\MockExamClassLibrary.runtimeconfig.json
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\bin\Debug\net8.0\MockExamClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\bin\Debug\net8.0\MockExamClassLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.csproj.AssemblyReference.cache
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.AssemblyInfoInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.AssemblyInfo.cs
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\refint\MockExamClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\MockExamClassLibrary.genruntimeconfig.cache
+C:\Users\murra\OneDrive\Documents\Code\MockExam2024\MockExamClassLibrary\obj\Debug\net8.0\ref\MockExamClassLibrary.dll

@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\teams\\viewteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\teams\\_playerslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151356_Update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151201_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78390EE4-9BEE-44AB-8760-5A897EA96D7D}|2022PracticePaper.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022practicepaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78390EE4-9BEE-44AB-8760-5A897EA96D7D}|2022PracticePaper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101145049_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78390EE4-9BEE-44AB-8760-5A897EA96D7D}|2022PracticePaper.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022practicepaper\\data\\dbcontext2022.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78390EE4-9BEE-44AB-8760-5A897EA96D7D}|2022PracticePaper.csproj|solutionrelative:data\\dbcontext2022.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AA7005-51D0-4434-8DAC-FD0F6FF1536F}|..\\2022MVC\\2022MVC.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647CE02D-F06A-41F1-9188-0B975B6ABBD8}|..\\2022ClassLibrary\\2022ClassLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Migrations\\20250101141951_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250101141951_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647CE02D-F06A-41F1-9188-0B975B6ABBD8}|..\\2022ClassLibrary\\2022ClassLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022classlibrary\\models\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647CE02D-F06A-41F1-9188-0B975B6ABBD8}|..\\2022ClassLibrary\\2022ClassLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022classlibrary\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647CE02D-F06A-41F1-9188-0B975B6ABBD8}|..\\2022ClassLibrary\\2022ClassLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\2022paper\\2022classlibrary\\2022classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PlayersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\_PlayersList.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Teams\\_PlayersList.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\_PlayersList.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Teams\\_PlayersList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:32:26.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewTeam.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\ViewTeam.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Teams\\ViewTeam.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\ViewTeam.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Teams\\ViewTeam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:32:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:30:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:22:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Teams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Teams\\Details.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Teams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:26:55.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "..\\2022MVC\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:17:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:16:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:15:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:14:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Program.cs",
+              "RelativeToolTip": "..\\2022MVC\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:39:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T14:46:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "..\\2022MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:47:09.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250101151356_Update2.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151356_Update2.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Data\\Migrations\\20250101151356_Update2.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151356_Update2.cs",
+              "RelativeToolTip": "..\\2022MVC\\Data\\Migrations\\20250101151356_Update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:13:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\2022MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:13:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250101151201_Update.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151201_Update.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Data\\Migrations\\20250101151201_Update.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101151201_Update.cs",
+              "RelativeToolTip": "..\\2022MVC\\Data\\Migrations\\20250101151201_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:12:01.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\2022MVC\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:10:27.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:00:28.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250101145049_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101145049_IntialCreate.cs",
+              "RelativeDocumentMoniker": "..\\2022MVC\\Data\\Migrations\\20250101145049_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\Data\\Migrations\\20250101145049_IntialCreate.cs",
+              "RelativeToolTip": "..\\2022MVC\\Data\\Migrations\\20250101145049_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:50:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "..\\2022MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "..\\2022MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-01T14:42:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbContext2022.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Data\\DbContext2022.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext2022.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Data\\DbContext2022.cs",
+              "RelativeToolTip": "Data\\DbContext2022.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:06:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\2022MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022MVC\\appsettings.json",
+              "RelativeToolTip": "..\\2022MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T14:39:02.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250101141951_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Migrations\\20250101141951_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250101141951_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022PracticePaper\\Migrations\\20250101141951_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250101141951_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:19:51.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\2022ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\2022ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:00:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Teams.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Models\\Teams.cs",
+              "RelativeDocumentMoniker": "..\\2022ClassLibrary\\Models\\Teams.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Models\\Teams.cs",
+              "RelativeToolTip": "..\\2022ClassLibrary\\Models\\Teams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:03:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Models\\Players.cs",
+              "RelativeDocumentMoniker": "..\\2022ClassLibrary\\Models\\Players.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\Models\\Players.cs",
+              "RelativeToolTip": "..\\2022ClassLibrary\\Models\\Players.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:03:40.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "2022ClassLibrary",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\2022ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\2022ClassLibrary\\2022ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\2022Paper\\2022ClassLibrary\\2022ClassLibrary.csproj",
+              "RelativeToolTip": "..\\2022ClassLibrary\\2022ClassLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T14:01:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

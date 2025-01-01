@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227175800_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9869-332E-4599-9BD7-DF4205C4DE06}|..\\MockConsole2\\MockConsole2.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockconsole2\\data\\flightcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227174617_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\views\\passengers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\controllers\\passengerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B180144-484D-4519-A3A4-0E79FAA35586}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mocklibrary\\models\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|solutionrelative:models\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9869-332E-4599-9BD7-DF4205C4DE06}|..\\MockConsole2\\MockConsole2.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mockconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mocklibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mocklibrary\\models\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|solutionrelative:models\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mocklibrary\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|solutionrelative:models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock\\mocklibrary\\mocklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9418BCA-458E-49C8-8709-B762D92D1791}|MockLibrary.csproj|solutionrelative:mocklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T18:40:41.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:38:46.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Passengers\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Passengers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Passengers\\Details.cshtml",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Passengers\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T18:34:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightContext.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Data\\FlightContext.cs",
+              "RelativeDocumentMoniker": "..\\MockConsole2\\Data\\FlightContext.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Data\\FlightContext.cs",
+              "RelativeToolTip": "..\\MockConsole2\\Data\\FlightContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:37:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassengersController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\PassengersController.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Controllers\\PassengersController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\PassengersController.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Controllers\\PassengersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:34:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Flights\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Flights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Views\\Flights\\Details.cshtml",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Flights\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T18:14:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:14:01.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\Program.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:10:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241227175800_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227175800_SeedData.cs",
+              "RelativeDocumentMoniker": "..\\MockConsole2\\Migrations\\20241227175800_SeedData.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227175800_SeedData.cs",
+              "RelativeToolTip": "..\\MockConsole2\\Migrations\\20241227175800_SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:58:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241227174617_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227174617_initialCreate.cs",
+              "RelativeDocumentMoniker": "..\\MockConsole2\\Migrations\\20241227174617_initialCreate.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Migrations\\20241227174617_initialCreate.cs",
+              "RelativeToolTip": "..\\MockConsole2\\Migrations\\20241227174617_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:46:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockWebApp\\appsettings.json",
+              "RelativeToolTip": "..\\MockWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T18:10:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Passengers.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Passengers.cs",
+              "RelativeDocumentMoniker": "Models\\Passengers.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Passengers.cs",
+              "RelativeToolTip": "Models\\Passengers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:35:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MockConsole2\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockConsole2\\Program.cs",
+              "RelativeToolTip": "..\\MockConsole2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:34:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MockLibrary",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\MockLibrary.csproj",
+              "RelativeDocumentMoniker": "MockLibrary.csproj",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\MockLibrary.csproj",
+              "RelativeToolTip": "MockLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T17:35:45.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "Models\\Bookings.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Bookings.cs",
+              "RelativeToolTip": "Models\\Bookings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:35:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Flights.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Flights.cs",
+              "RelativeDocumentMoniker": "Models\\Flights.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Models\\Flights.cs",
+              "RelativeToolTip": "Models\\Flights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:35:29.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock\\MockLibrary\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:33:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

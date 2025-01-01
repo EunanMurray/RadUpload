@@ -1,0 +1,14 @@
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\bin\Debug\net8.0\MockRepeatPractice.deps.json
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\bin\Debug\net8.0\MockRepeatPractice.runtimeconfig.json
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\bin\Debug\net8.0\MockRepeatPractice.dll
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\bin\Debug\net8.0\MockRepeatPractice.pdb
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.csproj.AssemblyReference.cache
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.AssemblyInfoInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.AssemblyInfo.cs
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.csproj.CoreCompileInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.dll
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\refint\MockRepeatPractice.dll
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.pdb
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\MockRepeatPractice.genruntimeconfig.cache
+C:\Users\murra\OneDrive\Documents\Code\MockRepeatPractice\obj\Debug\net8.0\ref\MockRepeatPractice.dll

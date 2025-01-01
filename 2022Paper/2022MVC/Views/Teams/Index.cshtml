@@ -1,0 +1,37 @@
+﻿@model IEnumerable<_2022ClassLibrary.Models.Teams>
+
+@{
+    ViewData["Title"] = "Teams Management";
+}
+
+<h1>Teams Management</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TeamName)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TeamName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.TeamID" class="btn btn-sm btn-primary">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.TeamID" class="btn btn-sm btn-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.TeamID" class="btn btn-sm btn-danger">Delete</a> |
+                    <a asp-action="ViewTeam" asp-route-teamId="@item.TeamID" class="btn btn-sm btn-secondary">View Players</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

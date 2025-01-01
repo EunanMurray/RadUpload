@@ -1,0 +1,14 @@
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\bin\Debug\net8.0\2022ClassLibrary.deps.json
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\bin\Debug\net8.0\2022ClassLibrary.runtimeconfig.json
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\bin\Debug\net8.0\2022ClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\bin\Debug\net8.0\2022ClassLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.AssemblyInfo.cs
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\refint\2022ClassLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\2022ClassLibrary.genruntimeconfig.cache
+C:\Users\murra\OneDrive\Documents\Code\2022Paper\2022ClassLibrary\obj\Debug\net8.0\ref\2022ClassLibrary.dll

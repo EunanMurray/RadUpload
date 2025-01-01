@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MockLibrary.Models.Grades>
+
+<div class="card">
+    <div class="card-header">
+        <h4>Student's Grade History</h4>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Student ID</th>
+                    <th>Subject Title</th>
+                    <th>Grade</th>
+                    <th>Date Entered</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var grade in Model)
+                {
+                    <tr>
+                        <td>@grade.GradeID</td>
+                        <td>@grade.StudentID</td>
+                        <td>@grade.SubjectTitle</td>
+                        <td>@grade.Grade%</td>
+                        <td>@grade.DateEntered.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

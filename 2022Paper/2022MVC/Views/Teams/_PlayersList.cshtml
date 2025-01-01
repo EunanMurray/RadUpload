@@ -1,0 +1,25 @@
+﻿@model IEnumerable<_2022ClassLibrary.Models.Players>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>DOB</th>
+            <th>Registration Status</th>
+            <th>Date Registered</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var player in Model)
+        {
+            <tr>
+                <td>@player.PlayerName</td>
+                <td>@player.Position</td>
+                <td>@player.DateOfBirth.ToShortDateString()</td>
+                <td>@(player.Registered ? "Registered" : "Not Registered")</td>
+                <td>@(player.DateRegistered.ToShortDateString() ?? "N/A")</td>
+            </tr>
+        }
+    </tbody>
+</table>

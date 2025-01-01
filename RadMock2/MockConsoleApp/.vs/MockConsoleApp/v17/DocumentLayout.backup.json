@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RadExamJan2024/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\views\\shared\\_studentgrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\views\\shared\\_studentgrades.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\data\\fe-23-dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:data\\fe-23-dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D1A34E-8C9B-4FC7-80EB-413F4D21EBBF}|..\\MockLibrary\\MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mocklibrary\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D1A34E-8C9B-4FC7-80EB-413F4D21EBBF}|..\\MockLibrary\\MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mocklibrary\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A94F2-86FE-4EBC-860E-3578B910B6DD}|..\\MockWebApp\\MockWebApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\mockconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:mockconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D1A34E-8C9B-4FC7-80EB-413F4D21EBBF}|..\\MockLibrary\\MockLibrary.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mocklibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\migrations\\20241228144620_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:migrations\\20241228144620_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\migrations\\20241228142448_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:migrations\\20241228142448_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|c:\\users\\murra\\onedrive\\documents\\code\\radmock2\\mockconsoleapp\\migrations\\20241228142400_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124485A8-D910-4A86-BE3F-EC46E2ACEB00}|MockConsoleApp.csproj|solutionrelative:migrations\\20241228142400_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RadExamJan2024/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T12:57:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_StudentGrades.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:54:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_StudentGrades.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Shared\\_StudentGrades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:52:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "..\\MockWebApp\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:46:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:37:27.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "..\\MockLibrary\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Models\\Students.cs",
+              "RelativeToolTip": "..\\MockLibrary\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:04:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FE-23-DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Data\\FE-23-DBContext.cs",
+              "RelativeDocumentMoniker": "Data\\FE-23-DBContext.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Data\\FE-23-DBContext.cs",
+              "RelativeToolTip": "Data\\FE-23-DBContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:08:56.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241228144620_Create3.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228144620_Create3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241228144620_Create3.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228144620_Create3.cs",
+              "RelativeToolTip": "Migrations\\20241228144620_Create3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:46:20.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Models\\Grades.cs",
+              "RelativeDocumentMoniker": "..\\MockLibrary\\Models\\Grades.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Models\\Grades.cs",
+              "RelativeToolTip": "..\\MockLibrary\\Models\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:05:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\Program.cs",
+              "RelativeToolTip": "..\\MockWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:34:05.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MockWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockWebApp\\appsettings.json",
+              "RelativeToolTip": "..\\MockWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T14:35:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241228142448_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228142448_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241228142448_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228142448_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20241228142448_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:24:48.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:58:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241228142400_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228142400_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241228142400_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\Migrations\\20241228142400_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241228142400_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:24:00.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MockConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\MockConsoleApp.csproj",
+              "RelativeDocumentMoniker": "MockConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockConsoleApp\\MockConsoleApp.csproj",
+              "RelativeToolTip": "MockConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T13:59:16.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MockLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\RadMock2\\MockLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\MockLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:59:10.108Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

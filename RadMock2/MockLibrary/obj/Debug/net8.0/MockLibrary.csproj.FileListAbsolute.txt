@@ -1,0 +1,14 @@
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\bin\Debug\net8.0\MockLibrary.deps.json
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\bin\Debug\net8.0\MockLibrary.runtimeconfig.json
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\bin\Debug\net8.0\MockLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\bin\Debug\net8.0\MockLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.csproj.AssemblyReference.cache
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.AssemblyInfoInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.AssemblyInfo.cs
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.csproj.CoreCompileInputs.cache
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\refint\MockLibrary.dll
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.pdb
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\MockLibrary.genruntimeconfig.cache
+C:\Users\murra\OneDrive\Documents\Code\RadMock2\MockLibrary\obj\Debug\net8.0\ref\MockLibrary.dll

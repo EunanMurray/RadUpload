@@ -1,0 +1,57 @@
+﻿@model MockRepeatPractice.Models.Passengers
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Passengers</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <td>@Html.DisplayFor(model => model.Name)</td>
+        </tr>
+        <tr>
+            <th>Ticket Type</th>
+            <td>@Html.DisplayFor(model => model.TicketType)</td>
+        </tr>
+        <tr>
+            <th>Cost</th>
+            <td>€@Html.DisplayFor(model => model.cost)</td>
+        </tr>
+        <tr>
+            <th>Baggage Charge</th>
+            <td>€@Html.DisplayFor(model => model.baggageCharge)</td>
+        </tr>
+        <tr>
+            <th>Flight Number</th>
+            <td>@Html.DisplayFor(model => model.Flight.FlightNumber)</td>
+        </tr>
+    </table>
+</div>
+<div>
+    <h4>Passenger Flight Details</h4>
+    <table class="table">
+        <tr>
+            <th>Flight Number</th>
+            <th>Destination</th>
+            <th>Departure</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>@Model.Flight.FlightNumber</td>
+            <td>@Model.Flight.destination</td>
+            <td>@Model.Flight.DepartureDate</td>
+            <td>
+                <a asp-controller="Flights" asp-action="Details" asp-route-id="@Model.Flight.FlightID">View Flight</a>
+            </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PassengerID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

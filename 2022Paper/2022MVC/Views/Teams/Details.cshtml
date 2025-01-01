@@ -1,0 +1,44 @@
+﻿@model _2022ClassLibrary.Models.Teams
+
+@{
+    ViewData["Title"] = "Team Details";
+}
+
+<h1>Team Details</h1>
+<div>
+    <h4>@Model.TeamName</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Team Name</dt>
+        <dd class="col-sm-10">@Model.TeamName</dd>
+    </dl>
+
+    <h5>Players</h5>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Position</th>
+                <th>DOB</th>
+                <th>Registration Status</th>
+                <th>Date Registered</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var player in Model.Players)
+            {
+                <tr>
+                    <td>@player.PlayerName</td>
+                    <td>@player.Position</td>
+                    <td>@player.DateOfBirth.ToShortDateString()</td>
+                    <td>@(player.Registered ? "Registered" : "Not Registered")</td>
+                    <td>@(player.DateRegistered.ToShortDateString() ?? "N/A")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.TeamID" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

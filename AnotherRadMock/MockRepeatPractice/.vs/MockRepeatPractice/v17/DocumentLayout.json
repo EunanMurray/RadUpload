@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C9A82C-DC97-4568-A4B3-75C3B7E833F0}|..\\MockRepeatConsole\\MockRepeatConsole.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatconsole\\data\\dbcontexts00235207.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C9A82C-DC97-4568-A4B3-75C3B7E833F0}|..\\MockRepeatConsole\\MockRepeatConsole.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatpractice\\models\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|solutionrelative:models\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatpractice\\models\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|solutionrelative:models\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\views\\passengers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\views\\shared\\_flightpassengers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\controllers\\passengerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\views\\passengers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C70D02-24D6-4F5C-81E2-B8C6DA644717}|..\\MockRepeatWeb\\MockRepeatWeb.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B86C77-B407-4AF5-93B4-01C537055A34}|MockRepeatPractice.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C9A82C-DC97-4568-A4B3-75C3B7E833F0}|..\\MockRepeatConsole\\MockRepeatConsole.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatconsole\\migrations\\20241230132713_intialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C9A82C-DC97-4568-A4B3-75C3B7E833F0}|..\\MockRepeatConsole\\MockRepeatConsole.csproj|c:\\users\\murra\\onedrive\\documents\\code\\mockrepeatconsole\\migrations\\20241230132615_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flights.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Models\\Flights.cs",
+              "RelativeDocumentMoniker": "Models\\Flights.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Models\\Flights.cs",
+              "RelativeToolTip": "Models\\Flights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:58:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Passengers.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Models\\Passengers.cs",
+              "RelativeDocumentMoniker": "Models\\Passengers.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Models\\Passengers.cs",
+              "RelativeToolTip": "Models\\Passengers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:58:25.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextS00235207.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Data\\DbContextS00235207.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatConsole\\Data\\DbContextS00235207.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Data\\DbContextS00235207.cs",
+              "RelativeToolTip": "..\\MockRepeatConsole\\Data\\DbContextS00235207.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:02:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Program.cs",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:27:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Program.cs",
+              "RelativeToolTip": "..\\MockRepeatConsole\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:56:59.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Passengers\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Views\\Passengers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Passengers\\Index.cshtml",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Views\\Passengers\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T15:39:56.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Flights\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Views\\Flights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Flights\\Details.cshtml",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Views\\Flights\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:55:07.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_FlightPassengers.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Shared\\_FlightPassengers.cshtml",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Views\\Shared\\_FlightPassengers.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Shared\\_FlightPassengers.cshtml",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Views\\Shared\\_FlightPassengers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:55:40.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Passengers\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Views\\Passengers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Passengers\\Details.cshtml",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Views\\Passengers\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:08:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:04:48.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PassengersController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Controllers\\PassengersController.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Controllers\\PassengersController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Controllers\\PassengersController.cs",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Controllers\\PassengersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:08:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "..\\MockRepeatWeb\\Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:48:12.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MockRepeatWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatWeb\\appsettings.json",
+              "RelativeToolTip": "..\\MockRepeatWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T13:51:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241230132713_IntialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Migrations\\20241230132713_IntialCreate2.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatConsole\\Migrations\\20241230132713_IntialCreate2.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Migrations\\20241230132713_IntialCreate2.cs",
+              "RelativeToolTip": "..\\MockRepeatConsole\\Migrations\\20241230132713_IntialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:27:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241230132615_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Migrations\\20241230132615_IntialCreate.cs",
+              "RelativeDocumentMoniker": "..\\MockRepeatConsole\\Migrations\\20241230132615_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatConsole\\Migrations\\20241230132615_IntialCreate.cs",
+              "RelativeToolTip": "..\\MockRepeatConsole\\Migrations\\20241230132615_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:26:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\murra\\OneDrive\\Documents\\Code\\MockRepeatPractice\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:56:34.321Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
